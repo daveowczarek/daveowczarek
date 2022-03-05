@@ -1,4 +1,13 @@
-### Hi there 👋
+### ThatDaveO
+
+About the author
+Dave Owczarek is a senior leader, writer, and speaker focused on SRE/DevOps and operating compliant, secure services at scale in the cloud.
+
+Social Media:
+Medium: @daveowczarek
+Twitter: @thatdaveo
+LinkedIn: @daveowczarek
+GitHub: @daveowczarek
 
 <!--
 **daveowczarek/daveowczarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
