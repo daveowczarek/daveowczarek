@@ -1,6 +1,6 @@
 ### ThatDaveO
 
-Dave Owczarek is a senior leader, writer, and speaker focused on SRE/DevOps and operating compliant, secure services at scale in the cloud.
+Upcoming content - operational debt presentation and graphics under CC license...
 
 ### Social Media:
 - Medium: [@daveowczarek](https://www.medium.com/daveowczarek)
