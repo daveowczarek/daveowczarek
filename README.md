@@ -1,4 +1,4 @@
-### ThatDaveO
+### Dave's tidbits
 
 Upcoming content - operational debt presentation and graphics under CC license...
 
