@@ -1,13 +1,12 @@
 ### ThatDaveO
 
-About the author
 Dave Owczarek is a senior leader, writer, and speaker focused on SRE/DevOps and operating compliant, secure services at scale in the cloud.
 
-Social Media:
-Medium: @daveowczarek
-Twitter: @thatdaveo
-LinkedIn: @daveowczarek
-GitHub: @daveowczarek
+### Social Media:
+- Medium: [@daveowczarek](https://www.medium.com/daveowczarek)
+- Twitter: [@thatdaveo](https://twitter.com/daveowczarek)
+- LinkedIn: [@daveowczarek](https://www.linkedin.com/daveowczarek)
+- GitHub: [@daveowczarek](https://github.com/daveowczarek)
 
 <!--
 **daveowczarek/daveowczarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
