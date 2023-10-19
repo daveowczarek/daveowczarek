@@ -4,7 +4,6 @@ Upcoming content - operational debt presentation and graphics under CC license..
 
 ### Social Media:
 - Medium: [@daveowczarek](https://www.medium.com/daveowczarek)
-- Twitter: [@thatdaveo](https://twitter.com/daveowczarek)
 - LinkedIn: [@daveowczarek](https://www.linkedin.com/daveowczarek)
 - GitHub: [@daveowczarek](https://github.com/daveowczarek)
 
